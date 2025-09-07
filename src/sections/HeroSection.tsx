@@ -7,7 +7,7 @@ function HeroSection(): JSX.Element {
       id="home"
       className="flex min-h-screen flex-col items-center justify-center text-white"
     >
-      <div className="mx-auto flex max-w-2xl flex-col items-center gap-5 px-5">
+      <div className="mx-auto -mt-[52px] flex max-w-2xl flex-col items-center gap-5 px-5">
         <h1 className="text-bold bg-gradient-to-r from-sky-400 via-blue-600 to-purple-600 bg-clip-text text-center text-5xl leading-relaxed text-transparent md:text-6xl">
           Hello, my name is{" "}
           <span className="font-semibold">{siteConfig.name}</span>
