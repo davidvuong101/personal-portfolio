@@ -5,10 +5,8 @@ const siteConfig: SiteConfig = {
   tagline:
     "I am a full stack software engineer committed to delivering clean and modern web solutions.",
   navLinks: [
-    { name: "Home", href: "#" },
     { name: "About", href: "#about" },
-    { name: "Projects", href: "#projects" },
-    { name: "Experience", href: "#experience" },
+    { name: "Work", href: "#work" },
     { name: "Contact", href: "#contact" },
   ],
 };
